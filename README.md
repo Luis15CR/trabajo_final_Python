@@ -8,7 +8,7 @@ Integrantes:
   
  1. Instruciones para poder leer los archivos en su propio ordenador:
  
-      Por el tamaño del archivo y el limitante en github, el cual solo nos permite subir archivo de 25 MB cada uno por ello se ha tenido
+      Por el tamaño de los archivo json y el limitante en github, el cual solo nos permite subir archivo de 25 MB cada uno por ello se ha tenido
       que dividir los archivo del mes de julio y diciembre 2018.
       
       1.1 Descargar los archivos del github.
